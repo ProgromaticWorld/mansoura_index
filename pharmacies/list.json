@@ -1,1 +1,21 @@
-
+{
+  "category_id": "pharmacies",
+  "category_name": "الصيدليات",
+  "version": 1.0,
+  "last_updated": "2026-10-07",
+  "items": [
+    {
+      "id": 401,
+      "name": "صيدليات الإسعاف الكبرى",
+      "subtitle": "أدوية مستوردة ومحلية، مستحضرات تجميل",
+      "address": "ميدان المحطة - بجوار المستشفى العام",
+      "city": "المنصورة",
+      "phone": "0502221100",
+      "whatsapp": "201055443322",
+      "image_url": "https://raw.githubusercontent.com/ProgromaticWorld/mansoura_index/main/pharmacies/pharmacy.jpg",
+      "logo_url": "https://raw.githubusercontent.com/ProgromaticWorld/mansoura_index/main/logos/logo_pharmacy.png",
+      "is_sponsored": true,
+      "details": "خدمة توصيل دواء مجانية داخل مدينة المنصورة ومراكزها المجاورة."
+    }
+  ]
+}
