@@ -1,1 +1,21 @@
-
+{
+  "category_id": "services",
+  "category_name": "الخدمات والصيانة",
+  "version": 1.0,
+  "last_updated": "2026-10-07",
+  "items": [
+    {
+      "id": 501,
+      "name": "مركز إنجاز لصيانة الأجهزة المنزلية",
+      "subtitle": "صيانة ثلاجات، غسالات، وتكييفات",
+      "address": "شارع الاستاد - ناصية شارع سيف الدين",
+      "city": "المنصورة",
+      "phone": "0502778899",
+      "whatsapp": "201033221144",
+      "image_url": "https://raw.githubusercontent.com/ProgromaticWorld/mansoura_index/main/services/maintenance.jpg",
+      "logo_url": "https://raw.githubusercontent.com/ProgromaticWorld/mansoura_index/main/services/logo_service.png",
+      "is_sponsored": false,
+      "details": "فريق فني متخصص لجميع الماركات العالمية مع ضمان معتمد على الصيانة."
+    }
+  ]
+}
