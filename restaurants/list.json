@@ -1,1 +1,21 @@
-
+{
+  "category_id": "restaurants",
+  "category_name": "المطاعم والكافيهات",
+  "version": 1.0,
+  "last_updated": "2026-10-07",
+  "items": [
+    {
+      "id": 201,
+      "name": "مطعم وكافيه المشاية",
+      "subtitle": "مشويات، أطباق شرقية وغربية",
+      "address": "شارع المشاية السفلية - أمام النيل",
+      "city": "المنصورة",
+      "phone": "0502334455",
+      "whatsapp": "201011223344",
+      "image_url": "https://raw.githubusercontent.com/ProgromaticWorld/mansoura_index/main/restaurants/mashaya.jpg",
+      "logo_url": "https://raw.githubusercontent.com/ProgromaticWorld/mansoura_index/main/restaurants/logo_restaurant.png",
+      "is_sponsored": true,
+      "details": "يتميز بإطلالة ساحرة على النيل مع خدمة توصيل سريعة لجميع أنحاء المنصورة."
+    }
+  ]
+}
