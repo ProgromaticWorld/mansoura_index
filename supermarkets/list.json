@@ -1,1 +1,21 @@
-
+{
+  "category_id": "supermarket",
+  "category_name": "السوبر ماركت",
+  "version": 1.0,
+  "last_updated": "2026-10-07",
+  "items": [
+    {
+      "id": 301,
+      "name": "سوبر ماركت العائلات",
+      "subtitle": "مواد غذائية، خضار وفواكه، ومنتجات ألبان",
+      "address": "شارع الجمهورية - بجوار البوابة الإلكترونية",
+      "city": "المنصورة",
+      "phone": "0502119988",
+      "whatsapp": "201099887766",
+      "image_url": "https://raw.githubusercontent.com/ProgromaticWorld/mansoura_index/main/supermarket/market.jpg",
+      "logo_url": "https://raw.githubusercontent.com/ProgromaticWorld/mansoura_index/main/logos/logo_market.png",
+      "is_sponsored": false,
+      "details": "متاح خدمة التوصيل للمنازل على مدار 24 ساعة في نطاق وسط المدينة."
+    }
+  ]
+}
