@@ -1,1 +1,21 @@
-
+{
+  "category_id": "lawyers",
+  "category_name": "مكاتب ومحاماة",
+  "version": 1.0,
+  "last_updated": "2026-10-07",
+  "items": [
+    {
+      "id": 601,
+      "name": "مكتب الأستاذ المستشار القانوني",
+      "subtitle": "استشارات قانونية، قضايا مدنية وجنائية وتجارية",
+      "address": "شارع الجلاء - برج الايمان - الدور الثاني",
+      "city": "المنصورة",
+      "phone": "0502445566",
+      "whatsapp": "201077665544",
+      "image_url": "https://raw.githubusercontent.com/ProgromaticWorld/mansoura_index/main/lawyers/law_office.jpg",
+      "logo_url": "https://raw.githubusercontent.com/ProgromaticWorld/mansoura_index/main/lawyers/logo_law.png",
+      "is_sponsored": false,
+      "details": "مواعيد العمل الرسمية من الأحد للخميس من الساعة 10 صباحاً حتى 4 عصراً."
+    }
+  ]
+}
